@@ -1,3 +1,8 @@
+body {
+    background-color: skyblue;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 125px;
+}
 .center,
 .question,
 .buttons{
@@ -6,4 +11,9 @@
 
 .form-check-label{
     font-size: 24px;
+    padding-left: 50px;
     }
+
+.question{
+    font-weight: bolder;
+}
